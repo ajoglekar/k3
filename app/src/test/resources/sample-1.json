@@ -1,0 +1,18 @@
+{ "order" : 4,
+"hints" : [
+    {"target" : 12, "operation" : "Times",
+      "region" : [{"column" : 1, "row" : 1}, {"column" : 2, "row" : 1}, {"column" : 2, "row" : 2}]},
+    {"target" : 2, "operation" : "Divide",
+      "region" : [{"column" : 3, "row" : 1}, {"column" : 4, "row" : 1}]},
+    {"target" : 11, "operation" : "Plus",
+      "region" : [{"column" : 1, "row" : 2}, {"column" : 1, "row" : 3}, {"column" : 1, "row" : 4}, {"column" : 2, "row" : 3}]},
+    {"target" : 2, "operation" : "Minus",
+      "region" : [{"column" : 3, "row" : 2}, {"column" : 3, "row" : 3}]},
+    {"target" : 2, "operation" : "Plus",
+      "region" : [{"column" : 4, "row" : 2}]},
+    {"target" : 4, "operation" : "Plus",
+      "region" : [{"column" : 4, "row" : 3}, {"column" : 4, "row" : 4}]},
+    {"target" : 3, "operation" : "Minus",
+      "region" : [{"column" : 2, "row" : 4}, {"column" : 3, "row" : 4}]}
+]
+}

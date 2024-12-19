@@ -1,0 +1,27 @@
+{ "order" : 7,
+"hints" : [
+    {"target" : 1, "operation" : "Minus", "region" : [0, 7]},
+    {"target" : 13, "operation" : "Plus", "region" : [1, 2]},
+    {"target" : 336, "operation" : "Times", "region" : [3, 4, 11, 12]},
+    {"target" : 2, "operation" : "Divide", "region" : [5, 6]},
+    {"target" : 3, "operation" : "Divide", "region" : [8, 15]},
+    {"target" : 2, "operation" : "Minus", "region" : [9, 10]},
+    {"target" : 2, "operation" : "Minus", "region" : [13, 20]},
+    {"target" : 2, "operation" : "Divide", "region" : [14, 21]},
+    {"target" : 7, "operation" : "Plus", "region" : [16, 17]},
+    {"target" : 14, "operation" : "Plus", "region" : [18, 24, 25]},
+    {"target" : 3, "operation" : "Minus", "region" : [19, 26]},
+    {"target" : 15, "operation" : "Times", "region" : [22, 28, 29]},
+    {"target" : 1, "operation" : "Minus", "region" : [23, 30]},
+    {"target" : 3, "operation" : "Minus", "region" : [27, 34]},
+    {"target" : 35, "operation" : "Times", "region" : [31, 38]},
+    {"target" : 3, "operation" : "Minus", "region" : [32, 39]},
+    {"target" : 2, "operation" : "Divide", "region" : [33, 40]},
+    {"target" : 21, "operation" : "Times", "region" : [35, 42]},
+    {"target" : 3, "operation" : "Minus", "region" : [36, 37]},
+    {"target" : 3, "operation" : "Divide", "region" : [41, 48]},
+    {"target" : 4, "operation" : "Constant", "region" : [43]},
+    {"target" : 1, "operation" : "Minus", "region" : [44, 45]},
+    {"target" : 4, "operation" : "Minus", "region" : [46, 47]}
+]
+}

@@ -1,0 +1,11 @@
+{ "order" : 4,
+"hints" : [
+    {"target" : 12, "operation" : "Times", "region" : [0, 1, 5]},
+    {"target" : 2, "operation" : "Divide", "region" : [2, 3]},
+    {"target" : 11, "operation" : "Plus", "region" : [4, 8, 9, 12]},
+    {"target" : 2, "operation" : "Minus", "region" : [6, 10]},
+    {"target" : 2, "operation" : "Constant", "region" : [7]},
+    {"target" : 4, "operation" : "Plus", "region" : [11, 15]},
+    {"target" : 3, "operation" : "Minus", "region" : [13, 14]}
+]
+}
